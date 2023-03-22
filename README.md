@@ -66,14 +66,17 @@ Builds the app for production to the `dist` folder.
 
 # To Creating a Toolchain from Scratch :
 <pre>
-A package manager, ### `npm` :
-        - It use to take advantage of a vast ecosystem of third-party packages, and easily install or update them.
+A package manager, npm :
+        - It use to take advantage of a vast ecosystem of third-party packages, 
+          and easily install or update them.
         
 A bundler, webpack :
-        - It use to write modular code and bundle it together into small packages to optimize load time.
+        - It use to write modular code and bundle it together 
+          into small packages to optimize load time.
         
 A compiler such as Babel. 
-        - It use to write modern JavaScript code that still works in older browsers.
+        - It use to write modern JavaScript code 
+          that still works in older browsers.
         
 </pre>
 
